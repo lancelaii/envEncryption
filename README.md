@@ -13,3 +13,5 @@ You can install the `cryptography` package using pip:
 
 ```bash
 pip3 install cryptography
+# or
+pip3 install -r requirements.txt
