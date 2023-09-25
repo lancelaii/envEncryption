@@ -1,6 +1,6 @@
 # envEncryption
 
-Simple encrpytion for .env
+Simple encryption/decryption for .env
 
 ## Prerequisites
 
