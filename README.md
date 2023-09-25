@@ -1,7 +1,5 @@
 # envEncryption
 
-# Your Project Name
-
 Simple encrpytion for .env
 
 ## Prerequisites
